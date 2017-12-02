@@ -1,3 +1,14 @@
+*
+ * 	Nombre: shareholder.sol
+ *	Version:	v0.1
+ *	Autor:	Jorge Martin
+ *	Fecha:	diciembre 2017
+ *	Descripcion:		shareholder.sol
+ *                  Empezaremos desde cero a intentar crear un contrato tipo shareholder,
+ *                  you need to also put a shares token address which is the address of the token that will work as a share with voting rights..
+ *                  members create new proposals, vote on them, wait until the deadline passes and then anyone can count the votes and execute it.
+ *                  https://www.ethereum.org/dao
+ */
 
 
 
